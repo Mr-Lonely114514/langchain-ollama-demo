@@ -23,4 +23,5 @@
 输入问题后，程序输出：
 
 我是来自AI的人工智能助手，专注于提供信息、帮助完成任务和解答问题。
+
 <img width="461" height="30" alt="屏幕截图 2026-10-29 213240" src="https://github.com/user-attachments/assets/cf9ed9f7-dd49-4f04-99b0-4715dadc71d8" />
